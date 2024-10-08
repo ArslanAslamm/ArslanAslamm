@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
-<h3 align="center">Software Engineer | Senior Full Stack Developer | PHP, Laravel, MERN Stack</h3>
+<h3 align="center">
+  Software Engineer | Senior Full Stack Developer | PHP, Laravel, MERN Stack
+</h3>
 
 <img
   alt="coding"
@@ -8,20 +10,8 @@
   src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
 />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/xheikh-arslan" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="xheikh-arslan"
-      height="30"
-      width="40"
-  /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="max-width: 560px">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -116,9 +106,6 @@
     />
   </a>
 
-  
-  
-  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -135,7 +122,7 @@
       height="40"
     />
   </a>
-  
+
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
@@ -176,7 +163,7 @@
       height="40"
     />
   </a>
-  
+
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -229,10 +216,26 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanaslamm&show_icons=true&locale=en&layout=compact"
-    alt="arslanaslamm"
-  />
-</p>
+<div style="display: flex; align-items: center">
+  <!-- GitHub Stats -->
+  <div style="flex: .5">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanaslamm&show_icons=true&locale=en&layout=compact"
+      alt="arslanaslamm"
+    />
+  </div>
+  <!-- Connect with me section -->
+  <div style="flex: 1; text-align: left">
+    <h3>Connect with me:</h3>
+    <p>
+      <a href="https://linkedin.com/in/xheikh-arslan" target="_blank">
+        <img
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="xheikh-arslan"
+          height="30"
+          width="40"
+        />
+      </a>
+    </p>
+  </div>
+</div>

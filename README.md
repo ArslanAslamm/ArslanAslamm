@@ -11,7 +11,7 @@
 />
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="max-width: 560px">
+<p align="left" width="300">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -215,27 +215,3 @@
     />
   </a>
 </p>
-
-<div style="display: flex; align-items: center">
-  <!-- GitHub Stats -->
-  <div style="flex: .5">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanaslamm&show_icons=true&locale=en&layout=compact"
-      alt="arslanaslamm"
-    />
-  </div>
-  <!-- Connect with me section -->
-  <div style="flex: 1; text-align: left">
-    <h3>Connect with me:</h3>
-    <p>
-      <a href="https://linkedin.com/in/xheikh-arslan" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="xheikh-arslan"
-          height="30"
-          width="40"
-        />
-      </a>
-    </p>
-  </div>
-</div>

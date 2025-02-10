@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
 <h3 align="center">
-  Software Engineer | Senior Full Stack Developer | PHP, Laravel, MERN Stack
+  Software Engineer | Senior Full Stack Developer | PHP, Laravel, MERN Stack, Python
 </h3>
 
 <img
